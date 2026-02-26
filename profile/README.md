@@ -1,7 +1,10 @@
 ## Tensori
 
-Tensori was founded in early 2021 and is based in Finland 🇫🇮
+[Tensori](https://tensori.fi) is a game studio.
+
+Based in Finland 🇫🇮.
 
 We focus on PC games.
 
-Checkout our website: [tensori.fi](https://tensori.fi)
+Past projects:
+- [POOLS](https://poolsthegame.com/) (2024)
